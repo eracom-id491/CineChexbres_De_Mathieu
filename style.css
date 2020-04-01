@@ -1,0 +1,28 @@
+
+	img{width: 100%;}
+	section{margin-bottom: 4rem;}
+	div{margin-bottom: 4rem;}
+	body{background-color: #232323;}
+
+	#Logo{
+		background-color: F1357A;
+		color: 000;
+		font-size: 4rem;
+		test-align: center;
+		height: 6rem;
+	}
+	.wideBkg{ background-color: #990000;}
+	nav a{
+		text-align: right;
+		color: #FFF;
+		font-size: 2rem;
+		display: inline-block;
+		height: 4rem;
+		padding-left: 1rem;
+		padding-right: 1rem;
+	}
+	nav a:hover{
+		background-color: rgba(250,250,250,0.75);
+		color: #000;
+		text-decoration: none;
+	}
